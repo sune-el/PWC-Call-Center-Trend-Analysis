@@ -1,7 +1,9 @@
 # PWC-Call-Center-Trend-Analysis
 
 This project was a virtual internship referred by Forage, focusing on call center trend analysis at PwC. The project utilized Power BI for data visualization and analysis.
-
+ 
+ Link for Dashboard: https://www.novypro.com/project/pwc-call-center-trend-analysis 
+ 
 Project Overview
 The PwC Call Center Trend Analysis Project aimed to analyze and visualize call center data to identify trends, patterns, and insights. The project leveraged Power BI, a powerful business intelligence tool, for data visualization and analysis.
 
